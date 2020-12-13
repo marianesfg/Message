@@ -1,0 +1,7 @@
+C:\Users\Esdras1\source\repos\Message\bin\Debug\Message.exe.config
+C:\Users\Esdras1\source\repos\Message\bin\Debug\Message.exe
+C:\Users\Esdras1\source\repos\Message\bin\Debug\Message.pdb
+C:\Users\Esdras1\source\repos\Message\obj\Debug\Message.csprojAssemblyReference.cache
+C:\Users\Esdras1\source\repos\Message\obj\Debug\Message.csproj.CoreCompileInputs.cache
+C:\Users\Esdras1\source\repos\Message\obj\Debug\Message.exe
+C:\Users\Esdras1\source\repos\Message\obj\Debug\Message.pdb
